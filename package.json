@@ -1,0 +1,14 @@
+{
+  "name": "tenniskata",
+  "version": "1.0.0",
+  "description": "Ma version de Tennis Kata de Coding Dojo pour Wemanity",
+  "main": "Tennis.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Yasser Aziz Hajji",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
